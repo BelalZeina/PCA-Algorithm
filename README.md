@@ -1,1 +1,2 @@
 # PCA-Algorithm
+PCA is a statistical technique for reducing the dimensionality of large datasets by transforming them into a lower-dimensional space, while preserving as much of the variance as possible. PCA works by finding the eigenvectors and eigenvalues of the covariance matrix of the data, and selecting the eigenvectors with the highest eigenvalues as the principal components. PCA can be applied to various types of data, such as images, speech, text, or gene expression, to enhance their interpretability and reduce noise and redundancy
